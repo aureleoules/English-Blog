@@ -1,2 +1,1 @@
-# blog
-This is my personal blog.
+## This is a school project.
