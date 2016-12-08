@@ -2,7 +2,7 @@
 title: My trip to London
 ---
 I **absolutly** wanted to visit the **UK** with my wife, especially **London** because it's the capital of the England.  
-To travel there, we took the train called **Eurostar**, in a few hours we was there for the first time!  
+To travel there, we took the train called **Eurostar**, in a few hours we were there for the first time!  
 
 I was so **impressed** to be in London, this was my dream. When I took the **underground**, I was completely lost because it's totally different from the Paris' one.  
 On the way to my hotel, I've noticed some **red telephone boxes**. This made me laugh because it's a well-known stereotype. For my first days, I've made many English mistakes. The British accent is very particular.  
