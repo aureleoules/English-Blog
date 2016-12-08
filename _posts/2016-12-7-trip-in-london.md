@@ -49,4 +49,32 @@ Jewels were gorgeous!
 
 Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras international** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again with our children this time!  
 
-<small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>
+<small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>  
+
+<div id='rateform' style="margin-top: 50px">
+	<input id='rate' style="text-align: center; width: 100%; margin-bottom: 10px" type="number" class="form-control" placeholder="20/20" min="0" max="20" />
+	<input id='submitBtn' type="submit" style="width: 100%; margin-bottom: 10px" class="btn btn-primary" value="Rate" onclick="sendgrade()">
+</div>
+
+<script>
+    function sendgrade() {
+        console.log($('#rate').val());
+        $.ajax({
+            url: 'http://aureledocs.oules.com/aureleoules/rate.php',
+            type: 'POST',
+            data: {
+                grade: $('#rate').val()
+            },
+            success: function(msg) {
+                $("#rateform").append("<center><p>Grade sent.</p></center>");
+                $('#submitBtn').prop('disabled', true);
+                $('#rate').prop('disabled', true);
+                $('#submitBtn').removeClass("btn-primary");
+                console.log('success');
+            },
+            error: function(err) {
+                console.log(err);
+            }
+        });
+    }
+</script>

@@ -2,17 +2,17 @@
 layout: default
 ---
 <!-- Posts -->
-<ul id="posts"  style="margin-bottom: 100px">
+<ul id="posts" style="margin-bottom: 100px">
 
 	{% for post in paginator.posts %}
 
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:69 }}</p>
-		<a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Read more...</a>
-	  </li>
+	<li class="post">
+		<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
+		<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+		<p>{{ post.content | strip_html | truncatewords:69 }}</p>
+		<a href="{% if site.baseurl == " / " %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">Read more...</a>
+	</li>
 
-    {% endfor %}
+	{% endfor %}
 
 </ul>
