@@ -31,4 +31,22 @@ We firstly went to the most popular and luxury department store: **Harrods**. It
 ![Harrods](/img/HARRODS.jpg "Harrods")<center><small><i class="img-caption">Harrods</i></small></center>
 
 We also went to **Hamleys** a very famous toys shop of London. There, the vendors are very kind and welcoming! The shop is extremely huge with many flours.  
-Right after my wife ruined me, we had a walk and ended up [**NOT FINISHED!**]
+Right after my wife ruined me, we went back at the hotel.  
+
+The last day, we got up earlier so we could go to the **London Eye**.  
+
+![London Eye](/img/LONDON_EYE.jpg "London Eye")<center><small><i class="img-caption">London Eye</i></small></center>
+
+We took a ride on the giant wheel to admire the whole city from a high-angle! Once the ride over, we went to the **Tower of London**.  
+
+![Tower of London](/img/Tower_of_london.jpg "Tower Of London")<center><small><i class="img-caption">Tower of London</i></small></center>  
+
+This is an old fortress located along the River Thames. It serves as a shelter for the **Crown Jewels**.  
+
+![Crown Jewels](/img/CROWN_JEWELS.jpg "Crown Jewels")<center><small><i class="img-caption">Crown Jewels</i></small></center>  
+
+Jewels were gorgeous!  
+
+Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras international** station to come back home in France! We found this trip extraordinary and we would, **without a doubt**, do it again but with our children this time!  
+
+<small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>
