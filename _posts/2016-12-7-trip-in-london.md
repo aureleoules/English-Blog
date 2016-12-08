@@ -19,7 +19,7 @@ In the evening, I took a red double decker bus to go to the **Piccadelly Circus*
 
 ![Double-Decker Bus](/img/redBus.jpg "Double-Decker Bus")<center><small><i class="img-caption">Double-Decker Bus</i></small></center>
 
-![Piccadilly](/img/PICADELLY.jpg "Piccadilly")<center><small><i class="img-caption">Picadelly Circus</i></small></center>
+![Piccadelly](/img/PICADELLY.jpg "Piccadilly")<center><small><i class="img-caption">Picadelly Circus</i></small></center>
 
 
 It’s a place with a fountain in the center, and many popular shops (like Burger King®…). At the same time I saw Big Ben with the bells ringing. Then I went back to my hotel, exhausted, I turned on the TV and watched the BBC.  
@@ -30,7 +30,7 @@ We firstly went to the most popular and luxury department store: **Harrods**. It
 
 ![Harrods](/img/HARRODS.jpg "Harrods")<center><small><i class="img-caption">Harrods</i></small></center>
 
-We also went to **Hamleys** a very famous toys shop of London. There, the vendors are very kind and welcoming! The shop is extremely huge with many flours.  
+We also went to **Hamleys** a very famous toy shop of London. There, the vendors are very kind and welcoming! The shop is extremely huge with many flours.  
 Right after my wife ruined me, we went back at the hotel.  
 
 The last day, we got up earlier so we could go to the **London Eye**.  
@@ -47,7 +47,7 @@ This is an old fortress located along the River Thames. It serves as a shelter f
 
 The jewels were gorgeous!  
 
-Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras International** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again with our children this time!  
+Then, we finally returned to the hotel and packed our things. A taxi took us to the **London Pancras International** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again with our children this time!  
 
 <small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>  
 
