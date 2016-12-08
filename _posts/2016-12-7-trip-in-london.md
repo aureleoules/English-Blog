@@ -2,7 +2,7 @@
 title: My trip to London
 ---
 I **absolutly** wanted to visit the **UK** with my wife, especially **London** because it's the capital of the England.  
-To travel there, I took the train called **Eurostar**, in a few hours I was there for the first time!  
+To travel there, we took the train called **Eurostar**, in a few hours we was there for the first time!  
 
 I was so **impressed** to be in London, this was my dream. When I took the **underground**, I was completely lost because it's totally different from the Paris' one.  
 On the way to my hotel, I've noticed some **red telephone boxes**. This made me laugh because it's a well-known stereotype. For my first days, I've made many English mistakes. The British accent is very particular.  
@@ -15,14 +15,14 @@ I also wanted to see the **Changing of the Royal Guards** at the Buckingham Pala
 
 ![Buckingham](/img/BUCKINGHAM.jpg "Buckingham")<center><small><i class="img-caption">Buckingham</i></small></center>
 
-In the evening, I took a red double decker bus to go to the **Piccadilly Circus**.  
+In the evening, I took a red double decker bus to go to the **Piccadelly Circus**.  
 
 ![Double-Decker Bus](/img/redBus.jpg "Double-Decker Bus")<center><small><i class="img-caption">Double-Decker Bus</i></small></center>
 
 ![Piccadilly](/img/PICADELLY.jpg "Piccadilly")<center><small><i class="img-caption">Picadelly Circus</i></small></center>
 
 
-It’s a place with a fountain in the center, and many popular shops (like Burger King®…). At the same time I saw the Big Ben with the bells ringing. Then I went back to my hotel, exhausted, I turned on the TV and watched the BBC.  
+It’s a place with a fountain in the center, and many popular shops (like Burger King®…). At the same time I saw Big Ben with the bells ringing. Then I went back to my hotel, exhausted, I turned on the TV and watched the BBC.  
 
 The next day, it was already Sunday, I ate a traditional brunch with scrambled eggs, bacon, meat, potatoes…  
 Then, **Shopping Time!** I promised to my wife, that we’ll go shopping one day! And there it is...  
@@ -45,9 +45,9 @@ This is an old fortress located along the River Thames. It serves as a shelter f
 
 ![Crown Jewels](/img/CROWN_JEWELS.jpg "Crown Jewels")<center><small><i class="img-caption">Crown Jewels</i></small></center>  
 
-Jewels were gorgeous!  
+The jewels were gorgeous!  
 
-Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras international** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again with our children this time!  
+Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras International** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again with our children this time!  
 
 <small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>  
 
