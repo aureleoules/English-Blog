@@ -4,7 +4,7 @@
  <title>Blog</title>
  <link href="http://aurele.oules.com/blog/atom.xml" rel="self"/>
  <id>http://aurele.oules.com/blog</id>
- <updated>2016-12-07T21:54:09+01:00</updated>
+ <updated>2016-12-08T01:44:41+01:00</updated>
  <author>
    <name>Aurèle Oulès</name>
    <uri>http://aurele.oules.com</uri>
@@ -18,7 +18,7 @@
    <link href="http://aurele.oules.com/blog/trip-in-london"/>
    <id>http://aurele.oules.com/blog/trip-in-london</id>
    <updated>2016-12-07T00:00:00+01:00</updated>
-   <content type="html">&lt;p&gt;I absolutly wanted to visit the UK with my wife, especially London because it’s the capital of the England. To travel there, I took the train called Eurostar, in a few hours I was there for the first time!&lt;/p&gt; &lt;p&gt;I was so impress to be in London, this was my...</content>
+   <content type="html">&lt;p&gt;I &lt;strong&gt;absolutly&lt;/strong&gt; wanted to visit the &lt;strong&gt;UK&lt;/strong&gt; with my wife, especially &lt;strong&gt;London&lt;/strong&gt; because it’s the capital of the England.&lt;br /&gt; To travel there, I took the train called &lt;strong&gt;Eurostar&lt;/strong&gt;, in a few hours I was there for the first time!&lt;/p&gt; &lt;p&gt;I was so &lt;strong&gt;impressed&lt;/strong&gt; to be in London, this was...</content>
  </entry>
 
  
