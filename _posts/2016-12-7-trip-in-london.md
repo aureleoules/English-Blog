@@ -47,6 +47,6 @@ This is an old fortress located along the River Thames. It serves as a shelter f
 
 Jewels were gorgeous!  
 
-Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras international** station to come back home in France! We found this trip extraordinary and we would, **without a doubt**, do it again but with our children this time!  
+Then, we finally went back to the hotel and packed our things. A taxi took us to the **London Pancras international** station to come back home in France! We found this trip extraordinary and we will, **without a doubt**, do it again but with our children this time!  
 
 <small><i>Written by Aurélien PETIT & Aurèle OULES.</i></small>
